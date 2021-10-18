@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### 环境说明
 - linux：centos7
 - elasticsearch：5.6.4
